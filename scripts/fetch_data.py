@@ -53,7 +53,7 @@ def main():
     if not key: print("FRED_API_KEY is required",file=sys.stderr); return 2
     raw={name:fetch(cfg[0],key) for name,cfg in SERIES.items()}
     recession=raw["recession"].resample("MS").max().dropna()
-    result={"schema_version":1,"generated_at":datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00","Z"),"source":"Federal Reserve Bank of St. Louis FRED","series":{}}
+    result={"schema_version":1,"generated_at":datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00","Z"),"sample_data":False,"source":"Federal Reserve Bank of St. Louis FRED","series":{}}
     for name,cfg in SERIES.items():
         sid,label,units,source_freq,agg,direction=cfg
         source=raw[name]
