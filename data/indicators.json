@@ -1,0 +1,3320 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-28T00:00:00Z",
+  "sample_data": true,
+  "source": "Federal Reserve Bank of St. Louis FRED",
+  "series": {
+    "cpi": {
+      "fred_id": "CPIAUCSL",
+      "name": "Headline CPI",
+      "units": "index",
+      "frequency": "monthly",
+      "direction": "lower",
+      "source": "FRED: CPIAUCSL",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 308,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 308,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 308,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 310,
+          "mom": 0,
+          "qoq": 0.649,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 310,
+          "mom": 0,
+          "qoq": 0.649,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 310,
+          "mom": 0,
+          "qoq": 0.649,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 313,
+          "mom": 0,
+          "qoq": 0.968,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 313,
+          "mom": 0,
+          "qoq": 0.968,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 313,
+          "mom": 0,
+          "qoq": 0.968,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 315,
+          "mom": 0,
+          "qoq": 0.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 315,
+          "mom": 0,
+          "qoq": 0.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 315,
+          "mom": 0,
+          "qoq": 0.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 317,
+          "mom": 0,
+          "qoq": 0.635,
+          "yoy": 2.922,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 317,
+          "mom": 0,
+          "qoq": 0.635,
+          "yoy": 2.922,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 317,
+          "mom": 0,
+          "qoq": 0.635,
+          "yoy": 2.922,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 319,
+          "mom": 0,
+          "qoq": 0.631,
+          "yoy": 2.903,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 319,
+          "mom": 0,
+          "qoq": 0.631,
+          "yoy": 2.903,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 319,
+          "mom": 0,
+          "qoq": 0.631,
+          "yoy": 2.903,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 321,
+          "mom": 0,
+          "qoq": 0.627,
+          "yoy": 2.556,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 321,
+          "mom": 0,
+          "qoq": 0.627,
+          "yoy": 2.556,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 321,
+          "mom": 0,
+          "qoq": 0.627,
+          "yoy": 2.556,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 323,
+          "mom": 0,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 323,
+          "mom": 0,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 323,
+          "mom": 0,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 308,
+          "last_value": 308,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 310,
+          "last_value": 310,
+          "mom": null,
+          "qoq": 0.649,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 313,
+          "last_value": 313,
+          "mom": null,
+          "qoq": 0.968,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 315,
+          "last_value": 315,
+          "mom": null,
+          "qoq": 0.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 317,
+          "last_value": 317,
+          "mom": null,
+          "qoq": 0.635,
+          "yoy": 2.922,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 319,
+          "last_value": 319,
+          "mom": null,
+          "qoq": 0.631,
+          "yoy": 2.903,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 321,
+          "last_value": 321,
+          "mom": null,
+          "qoq": 0.627,
+          "yoy": 2.556,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 323,
+          "last_value": 323,
+          "mom": null,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        }
+      ]
+    },
+    "coreCpi": {
+      "fred_id": "CPILFESL",
+      "name": "Core CPI",
+      "units": "index",
+      "frequency": "monthly",
+      "direction": "lower",
+      "source": "FRED: CPILFESL",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 315,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 315,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 315,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 317,
+          "mom": 0,
+          "qoq": 0.635,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 317,
+          "mom": 0,
+          "qoq": 0.635,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 317,
+          "mom": 0,
+          "qoq": 0.635,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 319,
+          "mom": 0,
+          "qoq": 0.631,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 319,
+          "mom": 0,
+          "qoq": 0.631,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 319,
+          "mom": 0,
+          "qoq": 0.631,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 321,
+          "mom": 0,
+          "qoq": 0.627,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 321,
+          "mom": 0,
+          "qoq": 0.627,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 321,
+          "mom": 0,
+          "qoq": 0.627,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 323,
+          "mom": 0,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 323,
+          "mom": 0,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 323,
+          "mom": 0,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 325,
+          "mom": 0,
+          "qoq": 0.619,
+          "yoy": 2.524,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 325,
+          "mom": 0,
+          "qoq": 0.619,
+          "yoy": 2.524,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 325,
+          "mom": 0,
+          "qoq": 0.619,
+          "yoy": 2.524,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 327,
+          "mom": 0,
+          "qoq": 0.615,
+          "yoy": 2.508,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 327,
+          "mom": 0,
+          "qoq": 0.615,
+          "yoy": 2.508,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 327,
+          "mom": 0,
+          "qoq": 0.615,
+          "yoy": 2.508,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 329,
+          "mom": 0,
+          "qoq": 0.612,
+          "yoy": 2.492,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 329,
+          "mom": 0,
+          "qoq": 0.612,
+          "yoy": 2.492,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 329,
+          "mom": 0,
+          "qoq": 0.612,
+          "yoy": 2.492,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 315,
+          "last_value": 315,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 317,
+          "last_value": 317,
+          "mom": null,
+          "qoq": 0.635,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 319,
+          "last_value": 319,
+          "mom": null,
+          "qoq": 0.631,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 321,
+          "last_value": 321,
+          "mom": null,
+          "qoq": 0.627,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 323,
+          "last_value": 323,
+          "mom": null,
+          "qoq": 0.623,
+          "yoy": 2.54,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 325,
+          "last_value": 325,
+          "mom": null,
+          "qoq": 0.619,
+          "yoy": 2.524,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 327,
+          "last_value": 327,
+          "mom": null,
+          "qoq": 0.615,
+          "yoy": 2.508,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 329,
+          "last_value": 329,
+          "mom": null,
+          "qoq": 0.612,
+          "yoy": 2.492,
+          "recession": 0
+        }
+      ]
+    },
+    "ppi": {
+      "fred_id": "PPIACO",
+      "name": "PPI All Commodities",
+      "units": "index",
+      "frequency": "monthly",
+      "direction": "lower",
+      "source": "FRED: PPIACO",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 249,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 249,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 249,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 251,
+          "mom": 0,
+          "qoq": 0.803,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 251,
+          "mom": 0,
+          "qoq": 0.803,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 251,
+          "mom": 0,
+          "qoq": 0.803,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 253,
+          "mom": 0,
+          "qoq": 0.797,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 253,
+          "mom": 0,
+          "qoq": 0.797,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 253,
+          "mom": 0,
+          "qoq": 0.797,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 255,
+          "mom": 0,
+          "qoq": 0.791,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 255,
+          "mom": 0,
+          "qoq": 0.791,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 255,
+          "mom": 0,
+          "qoq": 0.791,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 257,
+          "mom": 0,
+          "qoq": 0.784,
+          "yoy": 3.213,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 257,
+          "mom": 0,
+          "qoq": 0.784,
+          "yoy": 3.213,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 257,
+          "mom": 0,
+          "qoq": 0.784,
+          "yoy": 3.213,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 259,
+          "mom": 0,
+          "qoq": 0.778,
+          "yoy": 3.187,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 259,
+          "mom": 0,
+          "qoq": 0.778,
+          "yoy": 3.187,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 259,
+          "mom": 0,
+          "qoq": 0.778,
+          "yoy": 3.187,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 261,
+          "mom": 0,
+          "qoq": 0.772,
+          "yoy": 3.162,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 261,
+          "mom": 0,
+          "qoq": 0.772,
+          "yoy": 3.162,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 261,
+          "mom": 0,
+          "qoq": 0.772,
+          "yoy": 3.162,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 263,
+          "mom": 0,
+          "qoq": 0.766,
+          "yoy": 3.137,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 263,
+          "mom": 0,
+          "qoq": 0.766,
+          "yoy": 3.137,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 263,
+          "mom": 0,
+          "qoq": 0.766,
+          "yoy": 3.137,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 249,
+          "last_value": 249,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 251,
+          "last_value": 251,
+          "mom": null,
+          "qoq": 0.803,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 253,
+          "last_value": 253,
+          "mom": null,
+          "qoq": 0.797,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 255,
+          "last_value": 255,
+          "mom": null,
+          "qoq": 0.791,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 257,
+          "last_value": 257,
+          "mom": null,
+          "qoq": 0.784,
+          "yoy": 3.213,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 259,
+          "last_value": 259,
+          "mom": null,
+          "qoq": 0.778,
+          "yoy": 3.187,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 261,
+          "last_value": 261,
+          "mom": null,
+          "qoq": 0.772,
+          "yoy": 3.162,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 263,
+          "last_value": 263,
+          "mom": null,
+          "qoq": 0.766,
+          "yoy": 3.137,
+          "recession": 0
+        }
+      ]
+    },
+    "ppiFinal": {
+      "fred_id": "PPIFIS",
+      "name": "PPI Final Demand",
+      "units": "index",
+      "frequency": "monthly",
+      "direction": "lower",
+      "source": "FRED: PPIFIS",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 139,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 139,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 139,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 141,
+          "mom": 0,
+          "qoq": 1.439,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 141,
+          "mom": 0,
+          "qoq": 1.439,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 141,
+          "mom": 0,
+          "qoq": 1.439,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 143,
+          "mom": 0,
+          "qoq": 1.418,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 143,
+          "mom": 0,
+          "qoq": 1.418,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 143,
+          "mom": 0,
+          "qoq": 1.418,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 144,
+          "mom": 0,
+          "qoq": 0.699,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 144,
+          "mom": 0,
+          "qoq": 0.699,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 144,
+          "mom": 0,
+          "qoq": 0.699,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 145,
+          "mom": 0,
+          "qoq": 0.694,
+          "yoy": 4.317,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 145,
+          "mom": 0,
+          "qoq": 0.694,
+          "yoy": 4.317,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 145,
+          "mom": 0,
+          "qoq": 0.694,
+          "yoy": 4.317,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 146,
+          "mom": 0,
+          "qoq": 0.69,
+          "yoy": 3.546,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 146,
+          "mom": 0,
+          "qoq": 0.69,
+          "yoy": 3.546,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 146,
+          "mom": 0,
+          "qoq": 0.69,
+          "yoy": 3.546,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 148,
+          "mom": 0,
+          "qoq": 1.37,
+          "yoy": 3.497,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 148,
+          "mom": 0,
+          "qoq": 1.37,
+          "yoy": 3.497,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 148,
+          "mom": 0,
+          "qoq": 1.37,
+          "yoy": 3.497,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 149,
+          "mom": 0,
+          "qoq": 0.676,
+          "yoy": 3.472,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 149,
+          "mom": 0,
+          "qoq": 0.676,
+          "yoy": 3.472,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 149,
+          "mom": 0,
+          "qoq": 0.676,
+          "yoy": 3.472,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 139,
+          "last_value": 139,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 141,
+          "last_value": 141,
+          "mom": null,
+          "qoq": 1.439,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 143,
+          "last_value": 143,
+          "mom": null,
+          "qoq": 1.418,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 144,
+          "last_value": 144,
+          "mom": null,
+          "qoq": 0.699,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 145,
+          "last_value": 145,
+          "mom": null,
+          "qoq": 0.694,
+          "yoy": 4.317,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 146,
+          "last_value": 146,
+          "mom": null,
+          "qoq": 0.69,
+          "yoy": 3.546,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 148,
+          "last_value": 148,
+          "mom": null,
+          "qoq": 1.37,
+          "yoy": 3.497,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 149,
+          "last_value": 149,
+          "mom": null,
+          "qoq": 0.676,
+          "yoy": 3.472,
+          "recession": 0
+        }
+      ]
+    },
+    "fedfunds": {
+      "fred_id": "FEDFUNDS",
+      "name": "Federal Funds Effective Rate",
+      "units": "percent",
+      "frequency": "monthly",
+      "direction": "lower",
+      "source": "FRED: FEDFUNDS",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 5.33,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 5.33,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 5.33,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 5.33,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 5.33,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 5.33,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 5.08,
+          "mom": 0,
+          "qoq": -4.69,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 5.08,
+          "mom": 0,
+          "qoq": -4.69,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 5.08,
+          "mom": 0,
+          "qoq": -4.69,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 4.83,
+          "mom": 0,
+          "qoq": -4.921,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 4.83,
+          "mom": 0,
+          "qoq": -4.921,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 4.83,
+          "mom": 0,
+          "qoq": -4.921,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 4.58,
+          "mom": 0,
+          "qoq": -5.176,
+          "yoy": -14.071,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 4.58,
+          "mom": 0,
+          "qoq": -5.176,
+          "yoy": -14.071,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 4.58,
+          "mom": 0,
+          "qoq": -5.176,
+          "yoy": -14.071,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 4.33,
+          "mom": 0,
+          "qoq": -5.459,
+          "yoy": -18.762,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 4.33,
+          "mom": 0,
+          "qoq": -5.459,
+          "yoy": -18.762,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 4.33,
+          "mom": 0,
+          "qoq": -5.459,
+          "yoy": -18.762,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 4.08,
+          "mom": 0,
+          "qoq": -5.774,
+          "yoy": -19.685,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 4.08,
+          "mom": 0,
+          "qoq": -5.774,
+          "yoy": -19.685,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 4.08,
+          "mom": 0,
+          "qoq": -5.774,
+          "yoy": -19.685,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 3.83,
+          "mom": 0,
+          "qoq": -6.127,
+          "yoy": -20.704,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 3.83,
+          "mom": 0,
+          "qoq": -6.127,
+          "yoy": -20.704,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 3.83,
+          "mom": 0,
+          "qoq": -6.127,
+          "yoy": -20.704,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 5.33,
+          "last_value": 5.33,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 5.33,
+          "last_value": 5.33,
+          "mom": null,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 5.08,
+          "last_value": 5.08,
+          "mom": null,
+          "qoq": -4.69,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 4.83,
+          "last_value": 4.83,
+          "mom": null,
+          "qoq": -4.921,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 4.58,
+          "last_value": 4.58,
+          "mom": null,
+          "qoq": -5.176,
+          "yoy": -14.071,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 4.33,
+          "last_value": 4.33,
+          "mom": null,
+          "qoq": -5.459,
+          "yoy": -18.762,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 4.08,
+          "last_value": 4.08,
+          "mom": null,
+          "qoq": -5.774,
+          "yoy": -19.685,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 3.83,
+          "last_value": 3.83,
+          "mom": null,
+          "qoq": -6.127,
+          "yoy": -20.704,
+          "recession": 0
+        }
+      ]
+    },
+    "mortgage30": {
+      "fred_id": "MORTGAGE30US",
+      "name": "30-Year Mortgage Rate",
+      "units": "percent",
+      "frequency": "weekly",
+      "direction": "lower",
+      "source": "FRED: MORTGAGE30US",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 6.8,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 6.8,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 6.8,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 6.9,
+          "mom": 0,
+          "qoq": 1.471,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 6.9,
+          "mom": 0,
+          "qoq": 1.471,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 6.9,
+          "mom": 0,
+          "qoq": 1.471,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 6.7,
+          "mom": 0,
+          "qoq": -2.899,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 6.7,
+          "mom": 0,
+          "qoq": -2.899,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 6.7,
+          "mom": 0,
+          "qoq": -2.899,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 6.8,
+          "mom": 0,
+          "qoq": 1.493,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 6.8,
+          "mom": 0,
+          "qoq": 1.493,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 6.8,
+          "mom": 0,
+          "qoq": 1.493,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 6.6,
+          "mom": 0,
+          "qoq": -2.941,
+          "yoy": -2.941,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 6.6,
+          "mom": 0,
+          "qoq": -2.941,
+          "yoy": -2.941,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 6.6,
+          "mom": 0,
+          "qoq": -2.941,
+          "yoy": -2.941,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 6.4,
+          "mom": 0,
+          "qoq": -3.03,
+          "yoy": -7.246,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 6.4,
+          "mom": 0,
+          "qoq": -3.03,
+          "yoy": -7.246,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 6.4,
+          "mom": 0,
+          "qoq": -3.03,
+          "yoy": -7.246,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 6.2,
+          "mom": 0,
+          "qoq": -3.125,
+          "yoy": -7.463,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 6.2,
+          "mom": 0,
+          "qoq": -3.125,
+          "yoy": -7.463,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 6.2,
+          "mom": 0,
+          "qoq": -3.125,
+          "yoy": -7.463,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": -1.613,
+          "yoy": -10.294,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": -1.613,
+          "yoy": -10.294,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": -1.613,
+          "yoy": -10.294,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 6.8,
+          "last_value": 6.8,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 6.9,
+          "last_value": 6.9,
+          "mom": null,
+          "qoq": 1.471,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 6.7,
+          "last_value": 6.7,
+          "mom": null,
+          "qoq": -2.899,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 6.8,
+          "last_value": 6.8,
+          "mom": null,
+          "qoq": 1.493,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 6.6,
+          "last_value": 6.6,
+          "mom": null,
+          "qoq": -2.941,
+          "yoy": -2.941,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 6.4,
+          "last_value": 6.4,
+          "mom": null,
+          "qoq": -3.03,
+          "yoy": -7.246,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 6.2,
+          "last_value": 6.2,
+          "mom": null,
+          "qoq": -3.125,
+          "yoy": -7.463,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 6.1,
+          "last_value": 6.1,
+          "mom": null,
+          "qoq": -1.613,
+          "yoy": -10.294,
+          "recession": 0
+        }
+      ]
+    },
+    "mortgage15": {
+      "fred_id": "MORTGAGE15US",
+      "name": "15-Year Mortgage Rate",
+      "units": "percent",
+      "frequency": "weekly",
+      "direction": "lower",
+      "source": "FRED: MORTGAGE15US",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 6.1,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 6.2,
+          "mom": 0,
+          "qoq": 1.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 6.2,
+          "mom": 0,
+          "qoq": 1.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 6.2,
+          "mom": 0,
+          "qoq": 1.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 6,
+          "mom": 0,
+          "qoq": -3.226,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 6,
+          "mom": 0,
+          "qoq": -3.226,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 6,
+          "mom": 0,
+          "qoq": -3.226,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": 1.667,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": 1.667,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 6.1,
+          "mom": 0,
+          "qoq": 1.667,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 5.9,
+          "mom": 0,
+          "qoq": -3.279,
+          "yoy": -3.279,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 5.9,
+          "mom": 0,
+          "qoq": -3.279,
+          "yoy": -3.279,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 5.9,
+          "mom": 0,
+          "qoq": -3.279,
+          "yoy": -3.279,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 5.8,
+          "mom": 0,
+          "qoq": -1.695,
+          "yoy": -6.452,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 5.8,
+          "mom": 0,
+          "qoq": -1.695,
+          "yoy": -6.452,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 5.8,
+          "mom": 0,
+          "qoq": -1.695,
+          "yoy": -6.452,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 5.6,
+          "mom": 0,
+          "qoq": -3.448,
+          "yoy": -6.667,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 5.6,
+          "mom": 0,
+          "qoq": -3.448,
+          "yoy": -6.667,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 5.6,
+          "mom": 0,
+          "qoq": -3.448,
+          "yoy": -6.667,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 5.5,
+          "mom": 0,
+          "qoq": -1.786,
+          "yoy": -9.836,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 5.5,
+          "mom": 0,
+          "qoq": -1.786,
+          "yoy": -9.836,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 5.5,
+          "mom": 0,
+          "qoq": -1.786,
+          "yoy": -9.836,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 6.1,
+          "last_value": 6.1,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 6.2,
+          "last_value": 6.2,
+          "mom": null,
+          "qoq": 1.639,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 6,
+          "last_value": 6,
+          "mom": null,
+          "qoq": -3.226,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 6.1,
+          "last_value": 6.1,
+          "mom": null,
+          "qoq": 1.667,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 5.9,
+          "last_value": 5.9,
+          "mom": null,
+          "qoq": -3.279,
+          "yoy": -3.279,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 5.8,
+          "last_value": 5.8,
+          "mom": null,
+          "qoq": -1.695,
+          "yoy": -6.452,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 5.6,
+          "last_value": 5.6,
+          "mom": null,
+          "qoq": -3.448,
+          "yoy": -6.667,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 5.5,
+          "last_value": 5.5,
+          "mom": null,
+          "qoq": -1.786,
+          "yoy": -9.836,
+          "recession": 0
+        }
+      ]
+    },
+    "gas": {
+      "fred_id": "GASREGW",
+      "name": "US Regular Gas Price",
+      "units": "dollars_per_gallon",
+      "frequency": "weekly",
+      "direction": "lower",
+      "source": "FRED: GASREGW",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 3.25,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 3.25,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 3.25,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 3.45,
+          "mom": 0,
+          "qoq": 6.154,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 3.45,
+          "mom": 0,
+          "qoq": 6.154,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 3.45,
+          "mom": 0,
+          "qoq": 6.154,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 3.3,
+          "mom": 0,
+          "qoq": -4.348,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 3.3,
+          "mom": 0,
+          "qoq": -4.348,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 3.3,
+          "mom": 0,
+          "qoq": -4.348,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 3.5,
+          "mom": 0,
+          "qoq": 6.061,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 3.5,
+          "mom": 0,
+          "qoq": 6.061,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 3.5,
+          "mom": 0,
+          "qoq": 6.061,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 3.2,
+          "mom": 0,
+          "qoq": -8.571,
+          "yoy": -1.538,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 3.2,
+          "mom": 0,
+          "qoq": -8.571,
+          "yoy": -1.538,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 3.2,
+          "mom": 0,
+          "qoq": -8.571,
+          "yoy": -1.538,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 3.1,
+          "mom": 0,
+          "qoq": -3.125,
+          "yoy": -10.145,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 3.1,
+          "mom": 0,
+          "qoq": -3.125,
+          "yoy": -10.145,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 3.1,
+          "mom": 0,
+          "qoq": -3.125,
+          "yoy": -10.145,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 3.05,
+          "mom": 0,
+          "qoq": -1.613,
+          "yoy": -7.576,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 3.05,
+          "mom": 0,
+          "qoq": -1.613,
+          "yoy": -7.576,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 3.05,
+          "mom": 0,
+          "qoq": -1.613,
+          "yoy": -7.576,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 3,
+          "mom": 0,
+          "qoq": -1.639,
+          "yoy": -14.286,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 3,
+          "mom": 0,
+          "qoq": -1.639,
+          "yoy": -14.286,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 3,
+          "mom": 0,
+          "qoq": -1.639,
+          "yoy": -14.286,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 3.25,
+          "last_value": 3.25,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 3.45,
+          "last_value": 3.45,
+          "mom": null,
+          "qoq": 6.154,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 3.3,
+          "last_value": 3.3,
+          "mom": null,
+          "qoq": -4.348,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 3.5,
+          "last_value": 3.5,
+          "mom": null,
+          "qoq": 6.061,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 3.2,
+          "last_value": 3.2,
+          "mom": null,
+          "qoq": -8.571,
+          "yoy": -1.538,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 3.1,
+          "last_value": 3.1,
+          "mom": null,
+          "qoq": -3.125,
+          "yoy": -10.145,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 3.05,
+          "last_value": 3.05,
+          "mom": null,
+          "qoq": -1.613,
+          "yoy": -7.576,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 3,
+          "last_value": 3,
+          "mom": null,
+          "qoq": -1.639,
+          "yoy": -14.286,
+          "recession": 0
+        }
+      ]
+    },
+    "gdp": {
+      "fred_id": "GDPC1",
+      "name": "Real GDP",
+      "units": "billions_of_chained_dollars",
+      "frequency": "quarterly",
+      "direction": "higher",
+      "source": "FRED: GDPC1",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 22679,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 22679,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 22679,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 22789,
+          "mom": 0,
+          "qoq": 0.485,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 22789,
+          "mom": 0,
+          "qoq": 0.485,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 22789,
+          "mom": 0,
+          "qoq": 0.485,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 22956,
+          "mom": 0,
+          "qoq": 0.733,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 22956,
+          "mom": 0,
+          "qoq": 0.733,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 22956,
+          "mom": 0,
+          "qoq": 0.733,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 23085,
+          "mom": 0,
+          "qoq": 0.562,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 23085,
+          "mom": 0,
+          "qoq": 0.562,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 23085,
+          "mom": 0,
+          "qoq": 0.562,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 23148,
+          "mom": 0,
+          "qoq": 0.273,
+          "yoy": 2.068,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 23148,
+          "mom": 0,
+          "qoq": 0.273,
+          "yoy": 2.068,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 23148,
+          "mom": 0,
+          "qoq": 0.273,
+          "yoy": 2.068,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 23282,
+          "mom": 0,
+          "qoq": 0.579,
+          "yoy": 2.163,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 23282,
+          "mom": 0,
+          "qoq": 0.579,
+          "yoy": 2.163,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 23282,
+          "mom": 0,
+          "qoq": 0.579,
+          "yoy": 2.163,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 23401,
+          "mom": 0,
+          "qoq": 0.511,
+          "yoy": 1.938,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 23401,
+          "mom": 0,
+          "qoq": 0.511,
+          "yoy": 1.938,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 23401,
+          "mom": 0,
+          "qoq": 0.511,
+          "yoy": 1.938,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 23523,
+          "mom": 0,
+          "qoq": 0.521,
+          "yoy": 1.897,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 23523,
+          "mom": 0,
+          "qoq": 0.521,
+          "yoy": 1.897,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 23523,
+          "mom": 0,
+          "qoq": 0.521,
+          "yoy": 1.897,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 22679,
+          "last_value": 22679,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 22789,
+          "last_value": 22789,
+          "mom": null,
+          "qoq": 0.485,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 22956,
+          "last_value": 22956,
+          "mom": null,
+          "qoq": 0.733,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 23085,
+          "last_value": 23085,
+          "mom": null,
+          "qoq": 0.562,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 23148,
+          "last_value": 23148,
+          "mom": null,
+          "qoq": 0.273,
+          "yoy": 2.068,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 23282,
+          "last_value": 23282,
+          "mom": null,
+          "qoq": 0.579,
+          "yoy": 2.163,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 23401,
+          "last_value": 23401,
+          "mom": null,
+          "qoq": 0.511,
+          "yoy": 1.938,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 23523,
+          "last_value": 23523,
+          "mom": null,
+          "qoq": 0.521,
+          "yoy": 1.897,
+          "recession": 0
+        }
+      ]
+    },
+    "unemployment": {
+      "fred_id": "UNRATE",
+      "name": "Unemployment Rate",
+      "units": "percent",
+      "frequency": "monthly",
+      "direction": "lower",
+      "source": "FRED: UNRATE",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 3.8,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 3.8,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 3.8,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 3.9,
+          "mom": 0,
+          "qoq": 2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 3.9,
+          "mom": 0,
+          "qoq": 2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 3.9,
+          "mom": 0,
+          "qoq": 2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 3.9,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 3.9,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 3.9,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 4,
+          "mom": 0,
+          "qoq": 2.564,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 4,
+          "mom": 0,
+          "qoq": 2.564,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 4,
+          "mom": 0,
+          "qoq": 2.564,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 4,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": 5.263,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 4,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": 5.263,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 4,
+          "mom": 0,
+          "qoq": 0,
+          "yoy": 5.263,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 4.1,
+          "mom": 0,
+          "qoq": 2.5,
+          "yoy": 5.128,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 4.1,
+          "mom": 0,
+          "qoq": 2.5,
+          "yoy": 5.128,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 4.1,
+          "mom": 0,
+          "qoq": 2.5,
+          "yoy": 5.128,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 4.2,
+          "mom": 0,
+          "qoq": 2.439,
+          "yoy": 7.692,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 4.2,
+          "mom": 0,
+          "qoq": 2.439,
+          "yoy": 7.692,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 4.2,
+          "mom": 0,
+          "qoq": 2.439,
+          "yoy": 7.692,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 4.3,
+          "mom": 0,
+          "qoq": 2.381,
+          "yoy": 7.5,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 4.3,
+          "mom": 0,
+          "qoq": 2.381,
+          "yoy": 7.5,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 4.3,
+          "mom": 0,
+          "qoq": 2.381,
+          "yoy": 7.5,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 3.8,
+          "last_value": 3.8,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 3.9,
+          "last_value": 3.9,
+          "mom": null,
+          "qoq": 2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 3.9,
+          "last_value": 3.9,
+          "mom": null,
+          "qoq": 0,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 4,
+          "last_value": 4,
+          "mom": null,
+          "qoq": 2.564,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 4,
+          "last_value": 4,
+          "mom": null,
+          "qoq": 0,
+          "yoy": 5.263,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 4.1,
+          "last_value": 4.1,
+          "mom": null,
+          "qoq": 2.5,
+          "yoy": 5.128,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 4.2,
+          "last_value": 4.2,
+          "mom": null,
+          "qoq": 2.439,
+          "yoy": 7.692,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 4.3,
+          "last_value": 4.3,
+          "mom": null,
+          "qoq": 2.381,
+          "yoy": 7.5,
+          "recession": 0
+        }
+      ]
+    },
+    "sentiment": {
+      "fred_id": "UMCSENT",
+      "name": "Consumer Sentiment",
+      "units": "index",
+      "frequency": "monthly",
+      "direction": "higher",
+      "source": "FRED: UMCSENT",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 79,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 79,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 79,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 77,
+          "mom": 0,
+          "qoq": -2.532,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 77,
+          "mom": 0,
+          "qoq": -2.532,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 77,
+          "mom": 0,
+          "qoq": -2.532,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 76,
+          "mom": 0,
+          "qoq": -1.299,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 76,
+          "mom": 0,
+          "qoq": -1.299,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 76,
+          "mom": 0,
+          "qoq": -1.299,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 74,
+          "mom": 0,
+          "qoq": -2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 74,
+          "mom": 0,
+          "qoq": -2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 74,
+          "mom": 0,
+          "qoq": -2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 71,
+          "mom": 0,
+          "qoq": -4.054,
+          "yoy": -10.127,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 71,
+          "mom": 0,
+          "qoq": -4.054,
+          "yoy": -10.127,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 71,
+          "mom": 0,
+          "qoq": -4.054,
+          "yoy": -10.127,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 68,
+          "mom": 0,
+          "qoq": -4.225,
+          "yoy": -11.688,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 68,
+          "mom": 0,
+          "qoq": -4.225,
+          "yoy": -11.688,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 68,
+          "mom": 0,
+          "qoq": -4.225,
+          "yoy": -11.688,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 67,
+          "mom": 0,
+          "qoq": -1.471,
+          "yoy": -11.842,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 67,
+          "mom": 0,
+          "qoq": -1.471,
+          "yoy": -11.842,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 67,
+          "mom": 0,
+          "qoq": -1.471,
+          "yoy": -11.842,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 70,
+          "mom": 0,
+          "qoq": 4.478,
+          "yoy": -5.405,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 70,
+          "mom": 0,
+          "qoq": 4.478,
+          "yoy": -5.405,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 70,
+          "mom": 0,
+          "qoq": 4.478,
+          "yoy": -5.405,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 79,
+          "last_value": 79,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 77,
+          "last_value": 77,
+          "mom": null,
+          "qoq": -2.532,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 76,
+          "last_value": 76,
+          "mom": null,
+          "qoq": -1.299,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 74,
+          "last_value": 74,
+          "mom": null,
+          "qoq": -2.632,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 71,
+          "last_value": 71,
+          "mom": null,
+          "qoq": -4.054,
+          "yoy": -10.127,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 68,
+          "last_value": 68,
+          "mom": null,
+          "qoq": -4.225,
+          "yoy": -11.688,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 67,
+          "last_value": 67,
+          "mom": null,
+          "qoq": -1.471,
+          "yoy": -11.842,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 70,
+          "last_value": 70,
+          "mom": null,
+          "qoq": 4.478,
+          "yoy": -5.405,
+          "recession": 0
+        }
+      ]
+    },
+    "recession": {
+      "fred_id": "USREC",
+      "name": "US Recession Indicator",
+      "units": "binary",
+      "frequency": "monthly",
+      "direction": "neutral",
+      "source": "FRED: USREC",
+      "monthly": [
+        {
+          "date": "2024-01-01",
+          "value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-02-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-03-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-05-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-06-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-08-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-09-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-11-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-12-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-02-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-03-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-05-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-06-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-08-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-09-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-11-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-12-01",
+          "value": 0,
+          "mom": 0,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2024-01-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-04-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-07-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2024-10-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-01-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-04-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-07-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        },
+        {
+          "date": "2025-10-01",
+          "value": 0,
+          "last_value": 0,
+          "mom": null,
+          "qoq": null,
+          "yoy": null,
+          "recession": 0
+        }
+      ]
+    }
+  }
+}
