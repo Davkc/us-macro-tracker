@@ -64,8 +64,7 @@ def main():
         result["series"][name]={"fred_id":sid,"name":label,"units":units,"frequency":source_freq,"direction":direction,"source":"FRED: "+sid,"latest":{"date":source.index[-1].strftime("%Y-%m-%d"),"value":float(source.iloc[-1])},"monthly":changes(monthly,"monthly",mr),"quarterly":changes(quarterly,"quarterly",qr)}
     OUT.parent.mkdir(parents=True,exist_ok=True)
     temp=OUT.with_suffix(".tmp")
-    temp.write_text(json.dumps(result,indent=2)+"
-",encoding="utf-8")
+    temp.write_text(json.dumps(result, indent=2) + "\n", encoding="utf-8")
     temp.replace(OUT)
     print("Updated",OUT)
     return 0
