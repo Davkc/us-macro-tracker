@@ -11,6 +11,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -18,11 +20,20 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: python -m pip install -r requirements.txt
+      - name: Check FRED API key configuration
+        id: fred-key
+        run: |
+          if [ -z "$FRED_API_KEY" ]; then
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "::warning title=FRED_API_KEY not configured::Add the FRED_API_KEY repository secret to enable automatic data updates. The committed snapshot will remain available."
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
       - name: Fetch FRED observations
-        env:
-          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        if: steps.fred-key.outputs.configured == 'true'
         run: python scripts/fetch_data.py
       - name: Commit changed data
+        if: steps.fred-key.outputs.configured == 'true'
         run: |
           if git diff --quiet -- data/indicators.json; then exit 0; fi
           git config user.name "github-actions[bot]"
