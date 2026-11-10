@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T16:11:13Z",
+  "generated_at": "2026-11-10T14:49:48Z",
   "sample_data": false,
   "source": "Federal Reserve Bank of St. Louis FRED",
   "series": {
@@ -12,8 +12,8 @@
       "direction": "lower",
       "source": "FRED: CPIAUCSL",
       "latest": {
-        "date": "2026-09-01",
-        "value": 336.298
+        "date": "2026-10-01",
+        "value": 337.476
       },
       "monthly": [
         {
@@ -7663,6 +7663,14 @@
           "qoq": 1.1216,
           "yoy": 4.0233,
           "recession": 0
+        },
+        {
+          "date": "2026-10-01",
+          "value": 337.476,
+          "mom": 0.3503,
+          "qoq": 1.4011,
+          "yoy": 4.0806,
+          "recession": 0
         }
       ],
       "quarterly": [
@@ -10536,6 +10544,15 @@
           "yoy": 3.4585,
           "recession": 0,
           "last_value": 334.414
+        },
+        {
+          "date": "2026-10-01",
+          "value": 337.476,
+          "mom": null,
+          "qoq": 0.9156,
+          "yoy": 3.6643,
+          "recession": 0,
+          "last_value": 337.476
         }
       ]
     },
@@ -10547,8 +10564,8 @@
       "direction": "lower",
       "source": "FRED: CPILFESL",
       "latest": {
-        "date": "2026-09-01",
-        "value": 338.896
+        "date": "2026-10-01",
+        "value": 339.9
       },
       "monthly": [
         {
@@ -17238,6 +17255,14 @@
           "qoq": 0.8424,
           "yoy": 2.7892,
           "recession": 0
+        },
+        {
+          "date": "2026-10-01",
+          "value": 339.9,
+          "mom": 0.2963,
+          "qoq": 0.9237,
+          "yoy": 2.8697,
+          "recession": 0
         }
       ],
       "quarterly": [
@@ -19751,6 +19776,15 @@
           "yoy": 2.4929,
           "recession": 0,
           "last_value": 337.816667
+        },
+        {
+          "date": "2026-10-01",
+          "value": 339.9,
+          "mom": null,
+          "qoq": 0.6167,
+          "yoy": 2.5561,
+          "recession": 0,
+          "last_value": 339.9
         }
       ]
     },
@@ -46615,7 +46649,7 @@
       "direction": "lower",
       "source": "FRED: DFF",
       "latest": {
-        "date": "2026-11-05",
+        "date": "2026-11-06",
         "value": 3.88
       },
       "monthly": [
