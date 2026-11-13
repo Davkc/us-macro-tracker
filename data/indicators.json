@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T15:07:51Z",
+  "generated_at": "2026-11-13T14:30:52Z",
   "sample_data": false,
   "source": "Federal Reserve Bank of St. Louis FRED",
   "series": {
@@ -46649,7 +46649,7 @@
       "direction": "lower",
       "source": "FRED: DFF",
       "latest": {
-        "date": "2026-11-09",
+        "date": "2026-11-11",
         "value": 3.88
       },
       "monthly": [
@@ -56227,8 +56227,8 @@
       "direction": "lower",
       "source": "FRED: MORTGAGE30US",
       "latest": {
-        "date": "2026-11-05",
-        "value": 7.18
+        "date": "2026-11-12",
+        "value": 7.11
       },
       "monthly": [
         {
@@ -61569,10 +61569,10 @@
         },
         {
           "date": "2026-11-01",
-          "value": 7.18,
-          "mom": -2.0197,
-          "qoq": 7.6865,
-          "yoy": 15.1102,
+          "value": 7.145,
+          "mom": -2.4973,
+          "qoq": 7.1616,
+          "yoy": 14.5491,
           "recession": 0
         }
       ],
@@ -63577,12 +63577,12 @@
         },
         {
           "date": "2026-10-01",
-          "value": 7.303333,
+          "value": 7.275714,
           "mom": null,
-          "qoq": 9.3439,
-          "yoy": 17.2957,
+          "qoq": 8.9304,
+          "yoy": 16.8521,
           "recession": 0,
-          "last_value": 7.303333
+          "last_value": 7.275714
         }
       ]
     },
@@ -63594,8 +63594,8 @@
       "direction": "lower",
       "source": "FRED: MORTGAGE15US",
       "latest": {
-        "date": "2026-11-05",
-        "value": 6.57
+        "date": "2026-11-12",
+        "value": 6.45
       },
       "monthly": [
         {
@@ -66984,10 +66984,10 @@
         },
         {
           "date": "2026-11-01",
-          "value": 6.57,
-          "mom": -1.4106,
-          "qoq": 9.9582,
-          "yoy": 19.2377,
+          "value": 6.51,
+          "mom": -2.3109,
+          "qoq": 8.954,
+          "yoy": 18.1488,
           "recession": 0
         }
       ],
@@ -68263,12 +68263,12 @@
         },
         {
           "date": "2026-10-01",
-          "value": 6.648333,
+          "value": 6.62,
           "mom": null,
-          "qoq": 10.4515,
-          "yoy": 21.0675,
+          "qoq": 9.9808,
+          "yoy": 20.5515,
           "recession": 0,
-          "last_value": 6.648333
+          "last_value": 6.62
         }
       ]
     },
