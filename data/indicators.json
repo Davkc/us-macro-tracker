@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T14:30:52Z",
+  "generated_at": "2026-11-14T13:27:35Z",
   "sample_data": false,
   "source": "Federal Reserve Bank of St. Louis FRED",
   "series": {
@@ -19796,8 +19796,8 @@
       "direction": "lower",
       "source": "FRED: PPIACO",
       "latest": {
-        "date": "2026-09-01",
-        "value": 295.708
+        "date": "2026-10-01",
+        "value": 293.921
       },
       "monthly": [
         {
@@ -30690,34 +30690,42 @@
         },
         {
           "date": "2026-06-01",
-          "value": 286.037,
-          "mom": -1.462,
-          "qoq": 3.5957,
-          "yoy": 9.8069,
+          "value": 285.795,
+          "mom": -1.5454,
+          "qoq": 3.508,
+          "yoy": 9.714,
           "recession": 0
         },
         {
           "date": "2026-07-01",
-          "value": 284.973,
-          "mom": -0.372,
-          "qoq": 0.7962,
-          "yoy": 8.6199,
+          "value": 284.837,
+          "mom": -0.3352,
+          "qoq": 0.7481,
+          "yoy": 8.5681,
           "recession": 0
         },
         {
           "date": "2026-08-01",
-          "value": 287.735,
-          "mom": 0.9692,
-          "qoq": -0.8771,
-          "yoy": 9.7764,
+          "value": 287.522,
+          "mom": 0.9426,
+          "qoq": -0.9505,
+          "yoy": 9.6952,
           "recession": 0
         },
         {
           "date": "2026-09-01",
-          "value": 295.708,
-          "mom": 2.771,
-          "qoq": 3.381,
-          "yoy": 12.8424,
+          "value": 294.473,
+          "mom": 2.4176,
+          "qoq": 3.0364,
+          "yoy": 12.3711,
+          "recession": 0
+        },
+        {
+          "date": "2026-10-01",
+          "value": 293.921,
+          "mom": -0.1875,
+          "qoq": 3.1892,
+          "yoy": 12.7902,
           "recession": 0
         }
       ],
@@ -34801,21 +34809,30 @@
         },
         {
           "date": "2026-04-01",
-          "value": 286.346667,
+          "value": 286.266,
           "mom": null,
-          "qoq": 6.1523,
-          "yoy": 10.4788,
+          "qoq": 6.1224,
+          "yoy": 10.4477,
           "recession": 0,
-          "last_value": 286.346667
+          "last_value": 286.266
         },
         {
           "date": "2026-07-01",
-          "value": 289.472,
+          "value": 288.944,
           "mom": null,
-          "qoq": 1.0915,
-          "yoy": 10.4122,
+          "qoq": 0.9355,
+          "yoy": 10.2108,
           "recession": 0,
-          "last_value": 289.472
+          "last_value": 288.944
+        },
+        {
+          "date": "2026-10-01",
+          "value": 293.921,
+          "mom": null,
+          "qoq": 1.7225,
+          "yoy": 12.493,
+          "recession": 0,
+          "last_value": 293.921
         }
       ]
     },
@@ -34827,8 +34844,8 @@
       "direction": "lower",
       "source": "FRED: PPIFIS",
       "latest": {
-        "date": "2026-09-01",
-        "value": 159.78
+        "date": "2026-10-01",
+        "value": 160.254
       },
       "monthly": [
         {
@@ -36425,34 +36442,42 @@
         },
         {
           "date": "2026-06-01",
-          "value": 156.683,
-          "mom": -0.1218,
-          "qoq": 1.4832,
-          "yoy": 5.5865,
+          "value": 156.675,
+          "mom": -0.1269,
+          "qoq": 1.478,
+          "yoy": 5.5811,
           "recession": 0
         },
         {
           "date": "2026-07-01",
-          "value": 156.924,
-          "mom": 0.1538,
-          "qoq": 0.553,
-          "yoy": 4.8978,
+          "value": 156.834,
+          "mom": 0.1015,
+          "qoq": 0.4953,
+          "yoy": 4.8377,
           "recession": 0
         },
         {
           "date": "2026-08-01",
-          "value": 157.662,
-          "mom": 0.4703,
-          "qoq": 0.5023,
-          "yoy": 5.5817,
+          "value": 157.482,
+          "mom": 0.4132,
+          "qoq": 0.3876,
+          "yoy": 5.4612,
           "recession": 0
         },
         {
           "date": "2026-09-01",
-          "value": 159.78,
-          "mom": 1.3434,
-          "qoq": 1.9766,
-          "yoy": 6.3463,
+          "value": 159.699,
+          "mom": 1.4078,
+          "qoq": 1.9301,
+          "yoy": 6.2924,
+          "recession": 0
+        },
+        {
+          "date": "2026-10-01",
+          "value": 160.254,
+          "mom": 0.3475,
+          "qoq": 2.1806,
+          "yoy": 6.5242,
           "recession": 0
         }
       ],
@@ -37053,21 +37078,30 @@
         },
         {
           "date": "2026-04-01",
-          "value": 156.539333,
+          "value": 156.536667,
           "mom": null,
-          "qoq": 2.0764,
-          "yoy": 5.722,
+          "qoq": 2.0747,
+          "yoy": 5.7202,
           "recession": 0,
-          "last_value": 156.539333
+          "last_value": 156.536667
         },
         {
           "date": "2026-07-01",
-          "value": 158.122,
+          "value": 158.005,
           "mom": null,
-          "qoq": 1.011,
-          "yoy": 5.6097,
+          "qoq": 0.938,
+          "yoy": 5.5315,
           "recession": 0,
-          "last_value": 158.122
+          "last_value": 158.005
+        },
+        {
+          "date": "2026-10-01",
+          "value": 160.254,
+          "mom": null,
+          "qoq": 1.4234,
+          "yoy": 6.1086,
+          "recession": 0,
+          "last_value": 160.254
         }
       ]
     },
@@ -46649,7 +46683,7 @@
       "direction": "lower",
       "source": "FRED: DFF",
       "latest": {
-        "date": "2026-11-11",
+        "date": "2026-11-12",
         "value": 3.88
       },
       "monthly": [
