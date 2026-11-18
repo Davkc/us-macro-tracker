@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T15:56:04Z",
+  "generated_at": "2026-11-18T15:35:46Z",
   "sample_data": false,
   "source": "Federal Reserve Bank of St. Louis FRED",
   "series": {
@@ -46683,7 +46683,7 @@
       "direction": "lower",
       "source": "FRED: DFF",
       "latest": {
-        "date": "2026-11-13",
+        "date": "2026-11-16",
         "value": 3.88
       },
       "monthly": [
