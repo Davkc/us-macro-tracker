@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T15:40:58Z",
+  "generated_at": "2026-11-20T15:23:35Z",
   "sample_data": false,
   "source": "Federal Reserve Bank of St. Louis FRED",
   "series": {
@@ -46683,7 +46683,7 @@
       "direction": "lower",
       "source": "FRED: DFF",
       "latest": {
-        "date": "2026-11-17",
+        "date": "2026-11-18",
         "value": 3.88
       },
       "monthly": [
@@ -53634,7 +53634,7 @@
         {
           "date": "2026-11-01",
           "value": 3.88,
-          "mom": -0.0,
+          "mom": 0.0,
           "qoq": 6.8871,
           "yoy": 0.0946,
           "recession": 0
@@ -56261,8 +56261,8 @@
       "direction": "lower",
       "source": "FRED: MORTGAGE30US",
       "latest": {
-        "date": "2026-11-12",
-        "value": 7.11
+        "date": "2026-11-19",
+        "value": 7.28
       },
       "monthly": [
         {
@@ -61603,10 +61603,10 @@
         },
         {
           "date": "2026-11-01",
-          "value": 7.145,
-          "mom": -2.4973,
-          "qoq": 7.1616,
-          "yoy": 14.5491,
+          "value": 7.19,
+          "mom": -1.8832,
+          "qoq": 7.8365,
+          "yoy": 15.2705,
           "recession": 0
         }
       ],
@@ -63611,12 +63611,12 @@
         },
         {
           "date": "2026-10-01",
-          "value": 7.275714,
+          "value": 7.27625,
           "mom": null,
-          "qoq": 8.9304,
-          "yoy": 16.8521,
+          "qoq": 8.9384,
+          "yoy": 16.8607,
           "recession": 0,
-          "last_value": 7.275714
+          "last_value": 7.27625
         }
       ]
     },
@@ -63628,8 +63628,8 @@
       "direction": "lower",
       "source": "FRED: MORTGAGE15US",
       "latest": {
-        "date": "2026-11-12",
-        "value": 6.45
+        "date": "2026-11-19",
+        "value": 6.66
       },
       "monthly": [
         {
@@ -67018,10 +67018,10 @@
         },
         {
           "date": "2026-11-01",
-          "value": 6.51,
-          "mom": -2.3109,
-          "qoq": 8.954,
-          "yoy": 18.1488,
+          "value": 6.56,
+          "mom": -1.5606,
+          "qoq": 9.7908,
+          "yoy": 19.0563,
           "recession": 0
         }
       ],
@@ -68297,12 +68297,12 @@
         },
         {
           "date": "2026-10-01",
-          "value": 6.62,
+          "value": 6.625,
           "mom": null,
-          "qoq": 9.9808,
-          "yoy": 20.5515,
+          "qoq": 10.0639,
+          "yoy": 20.6426,
           "recession": 0,
-          "last_value": 6.62
+          "last_value": 6.625
         }
       ]
     },
