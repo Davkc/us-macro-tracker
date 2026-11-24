@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T17:59:35Z",
+  "generated_at": "2026-11-24T17:37:33Z",
   "sample_data": false,
   "source": "Federal Reserve Bank of St. Louis FRED",
   "series": {
@@ -46683,7 +46683,7 @@
       "direction": "lower",
       "source": "FRED: DFF",
       "latest": {
-        "date": "2026-11-19",
+        "date": "2026-11-20",
         "value": 3.88
       },
       "monthly": [
@@ -68314,8 +68314,8 @@
       "direction": "lower",
       "source": "FRED: GASREGW",
       "latest": {
-        "date": "2026-11-16",
-        "value": 3.805
+        "date": "2026-11-23",
+        "value": 3.642
       },
       "monthly": [
         {
@@ -71800,10 +71800,10 @@
         },
         {
           "date": "2026-11-01",
-          "value": 3.984333,
-          "mom": -7.5453,
-          "qoq": -1.8153,
-          "yoy": 30.6553,
+          "value": 3.89875,
+          "mom": -9.5313,
+          "qoq": -3.9243,
+          "yoy": 27.8488,
           "recession": 0
         }
       ],
@@ -73115,12 +73115,12 @@
         },
         {
           "date": "2026-10-01",
-          "value": 4.170143,
+          "value": 4.104125,
           "mom": null,
-          "qoq": 1.4481,
-          "yoy": 39.3299,
+          "qoq": -0.1579,
+          "yoy": 37.1241,
           "recession": 0,
-          "last_value": 4.170143
+          "last_value": 4.104125
         }
       ]
     },
