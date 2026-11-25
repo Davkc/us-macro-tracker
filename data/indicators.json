@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T17:37:33Z",
+  "generated_at": "2026-11-25T17:08:43Z",
   "sample_data": false,
   "source": "Federal Reserve Bank of St. Louis FRED",
   "series": {
@@ -46683,7 +46683,7 @@
       "direction": "lower",
       "source": "FRED: DFF",
       "latest": {
-        "date": "2026-11-20",
+        "date": "2026-11-23",
         "value": 3.88
       },
       "monthly": [
@@ -56261,8 +56261,8 @@
       "direction": "lower",
       "source": "FRED: MORTGAGE30US",
       "latest": {
-        "date": "2026-11-19",
-        "value": 7.28
+        "date": "2026-11-25",
+        "value": 7.21
       },
       "monthly": [
         {
@@ -61603,10 +61603,10 @@
         },
         {
           "date": "2026-11-01",
-          "value": 7.19,
-          "mom": -1.8832,
-          "qoq": 7.8365,
-          "yoy": 15.2705,
+          "value": 7.195,
+          "mom": -1.815,
+          "qoq": 7.9115,
+          "yoy": 15.3507,
           "recession": 0
         }
       ],
@@ -63611,12 +63611,12 @@
         },
         {
           "date": "2026-10-01",
-          "value": 7.27625,
+          "value": 7.268889,
           "mom": null,
-          "qoq": 8.9384,
-          "yoy": 16.8607,
+          "qoq": 8.8282,
+          "yoy": 16.7425,
           "recession": 0,
-          "last_value": 7.27625
+          "last_value": 7.268889
         }
       ]
     },
@@ -63628,8 +63628,8 @@
       "direction": "lower",
       "source": "FRED: MORTGAGE15US",
       "latest": {
-        "date": "2026-11-19",
-        "value": 6.66
+        "date": "2026-11-25",
+        "value": 6.54
       },
       "monthly": [
         {
@@ -67018,10 +67018,10 @@
         },
         {
           "date": "2026-11-01",
-          "value": 6.56,
-          "mom": -1.5606,
-          "qoq": 9.7908,
-          "yoy": 19.0563,
+          "value": 6.555,
+          "mom": -1.6357,
+          "qoq": 9.7071,
+          "yoy": 18.9655,
           "recession": 0
         }
       ],
@@ -68297,12 +68297,12 @@
         },
         {
           "date": "2026-10-01",
-          "value": 6.625,
+          "value": 6.615556,
           "mom": null,
-          "qoq": 10.0639,
-          "yoy": 20.6426,
+          "qoq": 9.907,
+          "yoy": 20.4706,
           "recession": 0,
-          "last_value": 6.625
+          "last_value": 6.615556
         }
       ]
     },
@@ -73133,7 +73133,7 @@
       "source": "FRED: GDPC1",
       "latest": {
         "date": "2026-07-01",
-        "value": 24611.077
+        "value": 24665.201
       },
       "monthly": [],
       "quarterly": [
@@ -76001,12 +76001,12 @@
         },
         {
           "date": "2026-07-01",
-          "value": 24611.077,
+          "value": 24665.201,
           "mom": null,
-          "qoq": 0.832,
-          "yoy": 2.0657,
+          "qoq": 1.0537,
+          "yoy": 2.2902,
           "recession": 0,
-          "last_value": 24611.077
+          "last_value": 24665.201
         }
       ]
     },
